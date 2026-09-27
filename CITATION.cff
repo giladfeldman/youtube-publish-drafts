@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "This is a maintained fork. Please cite the fork if you use these specific fixes,
+  and consider citing the original project it is based on."
+title: "youtube-publish-drafts (fork)"
+type: software
+authors:
+  - family-names: Feldman
+    given-names: Gilad
+    affiliation: University of Innsbruck
+date-released: 2026-09-27
+repository-code: "https://github.com/giladfeldman/youtube-publish-drafts"
+license: MIT
+references:
+  - type: software
+    title: "youtube-publish-drafts"
+    authors:
+      - name: "Wojciech Niedźwiedź"
+    repository-code: "https://github.com/Niedzwiedzw/youtube-publish-drafts"
